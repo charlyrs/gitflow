@@ -24,3 +24,21 @@
 >>>>>>> hot-fix-cherry
 </body>
     </html>
+    
+<select>
+<<<<<<< HEAD
+</select>
+<select>
+  <option value="1">One</option>
+</select>
+<select>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+</select>
+<select>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+     
+=======
+>>>>>>> parent of 5618350... task8.2
+</select>
