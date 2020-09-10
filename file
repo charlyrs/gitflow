@@ -7,9 +7,20 @@
 <body>
     <h1>Hi Alex!</h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <h2>Merge it2!</h2>
 =======
     <div>You are the best!</div>
 >>>>>>> hot-fix
+=======
+<<<<<<< HEAD
+    <div>You are the best!</div>
+=======
+    <h2>Merge it!</h2>
+>>>>>>> master
+=======
+    <div>You are the best!</div>
+>>>>>>> f92d525... task6.1
+>>>>>>> hot-fix-cherry
 </body>
     </html>
