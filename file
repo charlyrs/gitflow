@@ -7,9 +7,13 @@
 <body>
     <h1>Hi Alex!</h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <div>You are the best!</div>
 =======
     <h2>Merge it!</h2>
 >>>>>>> master
+=======
+    <div>You are the best!</div>
+>>>>>>> f92d525... task6.1
 </body>
     </html>
